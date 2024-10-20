@@ -85,18 +85,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="Center" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2FOutfly&psig=AOvVaw3kBvchxDRdPHC2yE6AAz5X&ust=1729529537065000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiKheO1nYkDFQAAAAAdAAAAABAE"  />
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HakashiKatake/HakashiKatake/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###

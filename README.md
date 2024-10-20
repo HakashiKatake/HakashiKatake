@@ -85,7 +85,7 @@
 
 ###
 
-<img align="Center" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2FOutfly&psig=AOvVaw3kBvchxDRdPHC2yE6AAz5X&ust=1729529537065000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiKheO1nYkDFQAAAAAdAAAAABAE"  />
+<img align="Center" height="150" src="https://giphy.com/gifs/Outfly-nxtlvl-outfly-nxtlvlpza-d3xZ3XfFCeF2BJ0Wdo"  />
 
 ###
 

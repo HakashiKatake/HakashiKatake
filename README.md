@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+<image> https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif </image>
 
 
 <h2 align="left">-Hi 👋! My name is Saurabh Yadav (@HakashiKatake) 🌭<br>-I'm from India (Mumbai) 📍<br>-I'm a Game Developer and Web-developer 🎮<br>-I'm Currently learning Full Stack Development and Unity 3D 👾<br>-Open to collaborate to projects, just drop me a dm! 🫡<br>-You can reach me on - discord : .hakashikatake and LinkedIn: linkedin.com/in/saurabh-yadav-925a7527a/<br>-Pronouns: He/Him 😪</h2>

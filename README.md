@@ -96,6 +96,8 @@
 ###
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/4b1fac6b-bed8-4264-85c8-8638051c6df5
+"/>
 ![giphy](https://github.com/user-attachments/assets/4b1fac6b-bed8-4264-85c8-8638051c6df5)
 </div>
 

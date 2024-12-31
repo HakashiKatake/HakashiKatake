@@ -1,4 +1,4 @@
-![snake animation](https://github.com/HakashiKatake/HakashiKatake/blob/output/github-contribution-grid-snake2.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/6430bd12-bda5-4e22-abb2-2620f7318ac7)
 

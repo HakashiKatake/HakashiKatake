@@ -3,7 +3,7 @@
 ###
 
 # 💫 About Me:
--Hi 👋! My name is Saurabh Yadav (@HakashiKatake) 🌭<br>-I'm from India (Mumbai) 📍<br>-I'm a Game Developer and Web-developer 🎮<br>-I'm Currently learning Full Stack Development and Unity 3D 👾<br>-Open to collaborate to projects, just drop me a dm! 🫡<br>-You can reach me on - discord : .hakashikatake and LinkedIn: linkedin.com/in/saurabh-yadav-925a7527a/<br>-Pronouns: He/Him 😪
+-Hi 👋! My name is Saurabh Yadav (@HakashiKatake) 🌭<br>-I'm from India (Mumbai) 📍<br>-I'm a Game Developer and Web-developer 🎮<br>-I'm Currently learning Full Stack Development and Unity 3D 👾<br>-Open to collaborate to projects, just drop me a dm! 🫡<br>-You can reach me on - discord : .hakashikatake and LinkedIn: <link>linkedin.com/in/saurabh-yadav-925a7527a/<link><br>-Pronouns: He/Him 😪
 
 
 ## 🌐 Socials:

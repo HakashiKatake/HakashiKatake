@@ -2,9 +2,20 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&width=435&lines=I'm+Saurabh+Yadav;Game+Developer;Web+Developer;Software+Developer;Loves+to+code)](https://git.io/typing-svg)
+
 
 # 💫 About Me:
+
+<p align=”center”>
+
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/57edbb78-ea09-4d4d-ae37-798035aa4707" />
+
+
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&width=435&lines=I'm+Saurabh+Yadav;Game+Developer;Web+Developer;Software+Developer;Loves+to+code)](https://git.io/typing-svg)
+
+
 -Hi 👋! My name is Saurabh Yadav (@HakashiKatake) 🌭<br>-I'm from India (Mumbai) 📍<br>-I'm a Game Developer and Web-developer 🎮<br>-I'm Currently learning Full Stack Development and Unity 3D 👾<br>-Open to collaborate to projects, just drop me a dm! 🫡<br>-You can reach me on - discord : .hakashikatake and LinkedIn: <link>linkedin.com/in/saurabh-yadav-925a7527a/<link><br>-Pronouns: He/Him 😪
 
 

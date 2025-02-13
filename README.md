@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&width=435&lines=I'm+Saurabh+Yadav)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&width=435&lines=I'm+Saurabh+Yadav;Game+Developer;Web+Developer;Software+Developer;Loves+to+code)](https://git.io/typing-svg)
 
 # 💫 About Me:
 -Hi 👋! My name is Saurabh Yadav (@HakashiKatake) 🌭<br>-I'm from India (Mumbai) 📍<br>-I'm a Game Developer and Web-developer 🎮<br>-I'm Currently learning Full Stack Development and Unity 3D 👾<br>-Open to collaborate to projects, just drop me a dm! 🫡<br>-You can reach me on - discord : .hakashikatake and LinkedIn: <link>linkedin.com/in/saurabh-yadav-925a7527a/<link><br>-Pronouns: He/Him 😪
